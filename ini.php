@@ -1,1 +1,3 @@
-echo "Hello dunia"
+echo "ff"
+echo "ff"
+echo "ff"
